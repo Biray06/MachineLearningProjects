@@ -1,2 +1,2 @@
 # MachineLearningProjects
-Codes and Dataset for all the ML projects
+Codes for all the ML projects
